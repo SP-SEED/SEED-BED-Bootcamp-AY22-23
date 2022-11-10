@@ -1,0 +1,7 @@
+{
+    "students": [
+        {"name":"John","age":"18","course":"DIT"},
+        {"name":"Mary","age":"18","course":"DISM"},
+        {"name":"Jack","age":"28","course":"DAAA"}
+    ]
+}
